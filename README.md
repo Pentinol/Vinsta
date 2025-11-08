@@ -1,2 +1,0 @@
-# Vinsta
-Texture Editor
